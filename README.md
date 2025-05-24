@@ -1,3 +1,30 @@
+# Bitwave Onboarding Platform
+
+A React-based internal tool built to streamline customer onboarding at Bitwave.  
+This platform helps the Solutions team track client setup progress and reduce onboarding friction.
+
+## 🔧 Tech Stack
+
+- React (bootstrapped with Create React App)
+- JavaScript
+- CSS
+- GitHub for version control
+
+## 🚀 Features
+
+- Track customer onboarding stages
+- Internal workflow visibility
+- Easy-to-use UI for the Solutions team
+
+---
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+... (the rest stays unchanged)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
